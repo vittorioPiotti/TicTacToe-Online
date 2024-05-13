@@ -7,6 +7,10 @@
 Sito Web per FilaTre Online con un interfaccia grafica simpatica e divertente 
 
 
+## Ispirazione
+
+Lo sfondo del sito web è stato ripresto dalla pagina CodePen: [Link allo Sfondo](https://codepen.io/ksenia-k/pen/jXbWaJ)
+
 
 ## Sito Web
 
