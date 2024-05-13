@@ -2,17 +2,15 @@
 
 
 
-# Bingo Bootstrap
-Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del Tabellone
+# FilaTre Online
+
+Sito Web per FilaTre Online con un interfaccia grafica simpatica e divertente 
 
 
-
-## Icona 
-<img src="https://github.com/vittorioPiotti/Bingo/blob/main/img/icona.png" alt="Icona" width="100"/>
 
 ## Sito Web
 
-Sito Web Bingo: [Link al Sito](https://6l2tn4.csb.app/Bingo)
+Sito Web FilaTre: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/Online/index.php)
 
 
 
