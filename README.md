@@ -43,7 +43,7 @@ Sito Web FilaTre: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/O
 | **attesaTurno**         | `/event=7`                      | `idGiocatore`                      | Attende che sia il turno del giocatore specificato.                          |
 | **cambiaTurno**         | `/event=8`                      | `idGiocatore`                      | Cambia il turno del gioco per il giocatore specificato.                      |
 | **ottieniCampoGioco**   | `/event=9`                      | `idGiocatore`                      | Ottiene lo stato attuale del campo di gioco per il giocatore specificato.    |
-| **verificaPresenzaSfidante** | `/event=10&param=${idGiocatore}`| `idGiocatore`                      | Verifica se lo sfidante del giocatore è online.                             |
+| **verificaPresenzaSfidante** | `/event=10`| `idGiocatore`                      | Verifica se lo sfidante del giocatore è online.                             |
 
 
 
