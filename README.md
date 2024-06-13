@@ -25,7 +25,7 @@ Sito Web FilaTre: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/O
 
 |Vittoria | Sconfitta| Pareggio| 
 |  ------------ | ------------ |  ------------ | 
-|   <img src="https://github.com/vittorioPiotti/FilaTreOnline/blob/main/FilaTreOnline/imgs/vittoria.png" alt="Icona" width="300"/>  | <img src="https://github.com/vittorioPiotti/FilaTreOnline/blob/main/FilaTreOnline/imgs/sconfitta.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/FilaTreOnline/blob/main/FilaTreOnline/imgs/pareggio.png" alt="Icona" width="300"/>  |
+|   <img src="https://github.com/vittorioPiotti/FilaTreOnline/blob/main/FilaTreOnline/imgs/win.gif" alt="Icona" width="300"/>  | <img src="https://github.com/vittorioPiotti/FilaTreOnline/blob/main/FilaTreOnline/imgs/lose.gif" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/FilaTreOnline/blob/main/FilaTreOnline/imgs/pari.gif" alt="Icona" width="300"/>  |
 
 
 ## API
