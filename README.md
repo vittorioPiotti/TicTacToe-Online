@@ -50,7 +50,7 @@ Sito Web FilaTre: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/O
 
 | Componente         | Versione  | Copyright                         | Licenza                                                       |
 |--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
-| FilaTre-Online | v1.0.0    | 2024 Vittorio Piotti              | [gpl-3.0 License](https://github.com/vittorioPiotti/FilaTreOnline/blob/main/LICENSE.md) |
+| FilaTre-Online | v1.0.0    | 2024 Vittorio Piotti              | [GPL-3.0 License](https://github.com/vittorioPiotti/FilaTreOnline/blob/main/LICENSE.md) |
 | font Slakey             |     |  | [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0) |
 
 
