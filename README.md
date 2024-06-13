@@ -46,6 +46,14 @@ Sito Web FilaTre: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/O
 | `ottieniCampoGioco`    | `/event=9&param=${idGiocatore}` | `idGiocatore`                      | Ottiene lo stato attuale del campo di gioco per il giocatore specificato.    |
 | `verificaPresenzaSfidante` | `/event=10&param=${idGiocatore}`| `idGiocatore`                      | Verifica se lo sfidante del giocatore è online.                             |
 
+<style>
+th:last-child,
+td:last-child {
+  min-width: 200px;
+}
+</style>
+
 </div>
+
 
 
