@@ -6,6 +6,7 @@
 
 Sito Web per FilaTre Online con un interfaccia grafica simpatica e divertente 
 
+<img src="https://github.com/vittorioPiotti/FilaTreOnline/blob/main/FilaTreOnline/imgs/game.gif" />
 
 ## Ispirazione
 
