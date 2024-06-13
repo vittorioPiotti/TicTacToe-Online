@@ -30,83 +30,22 @@ Sito Web FilaTre: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/O
 
 ## API
 
-### creaPartita
+<div class="overflow-auto">
 
-Crea una nuova partita con l'id del giocatore specificato.
+| Nome API               | URL                             | Parametri                          | Descrizione                                                                 |
+|------------------------|---------------------------------|------------------------------------|-----------------------------------------------------------------------------|
+| `creaPartita`          | `/event=0&param=${idGiocatore}` | `idGiocatore`                      | Crea una nuova partita per il giocatore specificato.                         |
+| `eliminaPartita`       | `/event=1&param=${idGiocatore}` | `idGiocatore`                      | Elimina la partita associata all'id del giocatore specificato.               |
+| `attesaSfidante`       | `/event=2&param=${idGiocatore}` | `idGiocatore`                      | Attende l'arrivo di uno sfidante per il giocatore specificato.               |
+| `ottieniListaCodici`   | `/event=3&`                     | Nessuno                            | Ottiene la lista dei codici disponibili.                                      |
+| `verificaCodicePartita`| `/event=4&param=${idGiocatore}` | `idGiocatore`                      | Verifica il codice inserito e aggiunge il giocatore alla partita.            |
+| `eseguiAccessoPartita` | `/event=5&param=${idGiocatoreBlu}&param2=${idGiocatoreRosso}` | `idGiocatoreBlu`, `idGiocatoreRosso`| Permette ai giocatori di entrare in una partita.                              |
+| `aggiornaCampoGioco`   | `/event=6&param=${idGiocatore}&param2=${inxMossa}` | `idGiocatore`, `inxMossa`          | Aggiorna il campo di gioco con la mossa specificata del giocatore.           |
+| `attesaTurno`          | `/event=7&param=${idGiocatore}` | `idGiocatore`                      | Attende che sia il turno del giocatore specificato.                          |
+| `cambiaTurno`          | `/event=8&param=${idGiocatore}` | `idGiocatore`                      | Cambia il turno del gioco per il giocatore specificato.                      |
+| `ottieniCampoGioco`    | `/event=9&param=${idGiocatore}` | `idGiocatore`                      | Ottiene lo stato attuale del campo di gioco per il giocatore specificato.    |
+| `verificaPresenzaSfidante` | `/event=10&param=${idGiocatore}`| `idGiocatore`                      | Verifica se lo sfidante del giocatore è online.                             |
 
-- **URL:** `/event=0&param=${idGiocatore}`
-- **Parametri:** `idGiocatore`
-
-### eliminaPartita
-
-Elimina la partita associata all'id del giocatore specificato.
-
-- **URL:** `/event=1&param=${idGiocatore}`
-- **Parametri:** `idGiocatore`
-
-### attesaSfidante
-
-Attende l'arrivo di uno sfidante per il giocatore specificato.
-
-- **URL:** `/event=2&param=${idGiocatore}`
-- **Parametri:** `idGiocatore`
-
-### ottieniListaCodici
-
-Ottiene la lista dei codici disponibili.
-
-- **URL:** `/event=3&`
-- **Parametri:** Nessuno
-
-### verificaCodicePartita
-
-Verifica il codice inserito e aggiunge il giocatore alla partita.
-
-- **URL:** `/event=4&param=${idGiocatore}`
-- **Parametri:** `idGiocatore`
-
-### eseguiAccessoPartita
-
-Permette ai giocatori di entrare in una partita.
-
-- **URL:** `/event=5&param=${idGiocatoreBlu}&param2=${idGiocatoreRosso}`
-- **Parametri:** `idGiocatoreBlu`, `idGiocatoreRosso`
-
-### aggiornaCampoGioco
-
-Aggiorna il campo di gioco con la mossa specificata del giocatore.
-
-- **URL:** `/event=6&param=${idGiocatore}&param2=${inxMossa}`
-- **Parametri:** `idGiocatore`, `inxMossa`
-
-### attesaTurno
-
-Attende che sia il turno del giocatore specificato.
-
-- **URL:** `/event=7&param=${idGiocatore}`
-- **Parametri:** `idGiocatore`
-
-### cambiaTurno
-
-Cambia il turno del gioco per il giocatore specificato.
-
-- **URL:** `/event=8&param=${idGiocatore}`
-- **Parametri:** `idGiocatore`
-
-### ottieniCampoGioco
-
-Ottiene lo stato attuale del campo di gioco per il giocatore specificato.
-
-- **URL:** `/event=9&param=${idGiocatore}`
-- **Parametri:** `idGiocatore`
-
-### verificaPresenzaSfidante
-
-Verifica se lo sfidante del giocatore è online (se non online, partita non esiste più).
-
-- **URL:** `/event=10&param=${idGiocatore}`
-- **Parametri:** `idGiocatore`
-
-
+</div>
 
 
