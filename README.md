@@ -46,6 +46,15 @@ Sito Web FilaTre: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/O
 | **verificaPresenzaSfidante** | `/event=10`| `idGiocatore`                      | Verifica se lo sfidante del giocatore è online.                             |
 
 
+## Licenze
+
+| Componente         | Versione  | Copyright                         | Licenza                                                       |
+|--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
+| FilaTre-Online | v1.0.0    | 2024 Vittorio Piotti              | [gpl-3.0 License](https://github.com/vittorioPiotti/FilaTreOnline/blob/main/LICENSE.md) |
+| font Slakey             |     |  | [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0) |
+
+
+
 
 
 
