@@ -7,6 +7,8 @@
 Sito Web per FilaTre Online con un interfaccia grafica simpatica e divertente 
 
 
+> [!TIP]
+> Corretto funzionamento garantito
 
 ## Ispirazione
 
