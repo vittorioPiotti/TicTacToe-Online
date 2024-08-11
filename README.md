@@ -1,5 +1,6 @@
 <img src="https://github.com/vittorioPiotti/FilaTreOnline/blob/main/FilaTreOnline/imgs/header5.png" />
 
+<img src="https://github.com/vittorioPiotti/FilaTreOnline/blob/main/FilaTreOnline/imgs/socialpreview.png" width="100%" />
 
 
 # FilaTre Online
