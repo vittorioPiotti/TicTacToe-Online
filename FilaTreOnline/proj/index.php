@@ -13,7 +13,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fila Tre</title>
     <link rel="stylesheet" type="text/css" href="style.css">
-
+    <meta property="og:title" content="FilaTre Online">
+    <meta property="og:description" content="Fila tre online per partite veloci con gli amici in un'interfaccia grafica accattivante.">
+    <meta property="og:url" content="https://vittoriopiotti.altervista.org/FilaTre/Online/index.php">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://github.com/vittorioPiotti/FilaTre-Online/blob/main/FilaTreOnline/imgs/socialpreview3.png?raw=true">
+    <meta property="og:image:width" content="1280">
+    <meta property="og:image:height" content="640">
 </head>
 <body>
     <div class="centered-div text-style ">
