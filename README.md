@@ -11,6 +11,11 @@ Sito Web per FilaTre Online con un interfaccia grafica simpatica e divertente
 > [!TIP]
 > Corretto funzionamento garantito
 
+### Support Me
+
+[<img width="200" src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/support.png"/>](https://ko-fi.com/vittoriopiotti)
+
+
 ## Ispirazione
 
 Per lo sfondo del sito è stata utilizzata  **con le opportune modifiche** l'immagine di sfondo presente nella pagina CodePen: [Link allo Sfondo](https://codepen.io/ksenia-k/pen/jXbWaJ)
