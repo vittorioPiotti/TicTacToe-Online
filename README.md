@@ -58,7 +58,7 @@ Sito Web FilaTre: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/O
 
 | Componente         | Versione  | Copyright                         | Licenza                                                       |
 |--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
-| [TicTacToe Online](https://github.com/vittorioPiotti/TicTacToe-Online) | [v1.0.0](https://github.com/vittorioPiotti/TicTacToe-Online/releases/tag/v1.0.0)    | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)            | [GPL-3.0 ](https://github.com/vittorioPiotti/TicTacToe-Online/blob/main/LICENSE.md) |
+| [TicTacToe](https://github.com/vittorioPiotti/TicTacToe-Online) | [v1.0.0](https://github.com/vittorioPiotti/TicTacToe-Online/releases/tag/v1.0.0)    | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)            | [GPL-3.0 ](https://github.com/vittorioPiotti/TicTacToe-Online/blob/main/LICENSE.md) |
 | font Slakey             |     |  | [Apache 2.0 ](http://www.apache.org/licenses/LICENSE-2.0) |
 | Bootstrap          | v4.0.0    | 2011-2018 The Bootstrap Authors   | [MIT ](https://github.com/twbs/bootstrap/blob/master/LICENSE) |
 
