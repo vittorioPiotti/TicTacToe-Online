@@ -58,8 +58,17 @@ Sito Web FilaTre: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/O
 
 | Componente         | Versione  | Copyright                         | Licenza                                                       |
 |--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
-| FilaTre-Online | v1.0.0    | 2024 Vittorio Piotti              | [GPL-3.0 License](https://github.com/vittorioPiotti/FilaTreOnline/blob/main/LICENSE.md) |
-| font Slakey             |     |  | [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0) |
+| FilaTre-Online | v1.0.0    | 2024 Vittorio Piotti              | [GPL-3.0 ](https://github.com/vittorioPiotti/FilaTreOnline/blob/main/LICENSE.md) |
+| font Slakey             |     |  | [Apache 2.0 ](http://www.apache.org/licenses/LICENSE-2.0) |
+| Bootstrap          | v4.0.0    | 2011-2018 The Bootstrap Authors   | [MIT ](https://github.com/twbs/bootstrap/blob/master/LICENSE) |
+
+
+
+
+
+> [!NOTE]
+> Di **Bootstrap*** sono state utilizzate solo le icone SVG
+
 
 
 
