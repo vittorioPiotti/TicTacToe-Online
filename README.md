@@ -56,18 +56,39 @@ Sito Web FilaTre: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/O
 
 ## Licenze
 
-| Componente         | Versione  | Copyright                         | Licenza                                                       |
-|--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
-| [TicTacToe](https://github.com/vittorioPiotti/TicTacToe-Online) | [v1.0.0](https://github.com/vittorioPiotti/TicTacToe-Online/releases/tag/v1.0.0)    | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)            | [GPL-3.0 ](https://github.com/vittorioPiotti/TicTacToe-Online/blob/main/LICENSE.md) |
-| font Slakey             |     |  | [Apache 2.0 ](http://www.apache.org/licenses/LICENSE-2.0) |
-| Bootstrap          | v4.0.0    | 2011-2018 The Bootstrap Authors   | [MIT ](https://github.com/twbs/bootstrap/blob/master/LICENSE) |
-
-
-
-
 
 > [!NOTE]
 > Di **Bootstrap** sono state utilizzate solo le icone SVG
+
+
+### TicTacToe
+
+**Copyright** 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)
+
+**Version** [v1.0.0](https://github.com/vittorioPiotti/TicTacToe-Online/releases/tag/v1.0.0)
+
+**License** [GPL-3.0](https://github.com/vittorioPiotti/TicTacToe-Online/blob/main/LICENSE.md)
+
+---
+
+### Font Slakey
+
+**Copyright** Google Fonts [link](https://fonts.google.com/specimen/Slackey/license)
+
+**License** [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+---
+
+### Bootstrap Icons
+
+**Copyright** 2011-2018 The Bootstrap Authors 
+
+**Version** [v1.11.0](https://blog.getbootstrap.com/2023/09/12/bootstrap-icons-1-11-0/)
+
+**License** [MIT](https://github.com/twbs/icons/blob/main/LICENSE)
+
+
+
 
 
 
