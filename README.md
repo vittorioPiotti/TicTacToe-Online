@@ -15,12 +15,12 @@ Sito Web per FilaTre Online con un interfaccia grafica simpatica e divertente
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P012BC8U)
 
-## Ispirazione
+## ▋Ispirazione
 
 Per lo sfondo del sito è stata utilizzata  **con le opportune modifiche** l'immagine di sfondo presente nella pagina CodePen: [Link allo Sfondo](https://codepen.io/ksenia-k/pen/jXbWaJ)
 
 
-## Preview
+## ▋Preview
 
 Sito Web: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/Online/index.php)
 
@@ -35,7 +35,7 @@ Sito Web: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/Online/in
 |   <img src="https://github.com/vittorioPiotti/FilaTreOnline/blob/main/FilaTreOnline/imgs/win.gif" alt="Icona" width="100%"/>  | <img src="https://github.com/vittorioPiotti/FilaTreOnline/blob/main/FilaTreOnline/imgs/won.gif" alt="Icona" width="100%"/> | <img src="https://github.com/vittorioPiotti/FilaTreOnline/blob/main/FilaTreOnline/imgs/pari.gif" alt="Icona" width="100%"/>  |
 |  ------------ | ------------ |  ------------ | 
 
-## API
+## ▋API
 
 
 | Nome API                | URL                             | Parametri                          | Descrizione                                                                 |
@@ -53,7 +53,7 @@ Sito Web: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/Online/in
 | **verificaPresenzaSfidante** | `/event=10`| `idGiocatore`                      | Verifica se lo sfidante del giocatore è online.                             |
 
 
-## Licenze
+## ▋Licenze
 
 
 > [!NOTE]
