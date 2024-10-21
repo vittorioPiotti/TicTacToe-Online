@@ -20,7 +20,7 @@ Sito Web per FilaTre Online con un interfaccia grafica simpatica e divertente
 Per lo sfondo del sito è stata utilizzata  **con le opportune modifiche** l'immagine di sfondo presente nella pagina CodePen: [Link allo Sfondo](https://codepen.io/ksenia-k/pen/jXbWaJ)
 
 
-## Sito Web
+## Preview
 
 Sito Web FilaTre: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/Online/index.php)
 
