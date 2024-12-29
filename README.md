@@ -10,10 +10,7 @@ Sito Web per FilaTre Online con un interfaccia grafica simpatica e divertente
 
 
 
-#### Support Me
-
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P012BC8U)
+---
 
 ## ▋Ispirazione
 
