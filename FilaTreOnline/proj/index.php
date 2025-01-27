@@ -24,10 +24,10 @@
 <body>
     <div class="centered-div text-style ">
       <p class="text text-title">
-         Fila Tre
+         @shinnu_o7
       </p>
       <p class="text text-notify" id="text-notifica">
-         Codice Partita
+         shinnu's Dreamscape 👀 
       </p>
       <input  id="input-codice" class="text-with-border text-style input-codice" onkeyup="handleInputCodiceKeyUp(event)">
       <div class="input-gioco nascondi" id="element-input-gioco">
